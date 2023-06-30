@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.Models\bin\Debug\net7.0\StudentManagement.Models.deps.json
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.Models\bin\Debug\net7.0\StudentManagement.Models.dll
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.Models\bin\Debug\net7.0\StudentManagement.Models.pdb
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.Models\obj\Debug\net7.0\StudentManagement.Models.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.Models\obj\Debug\net7.0\StudentManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.Models\obj\Debug\net7.0\StudentManagement.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.Models\obj\Debug\net7.0\StudentManagement.Models.AssemblyInfo.cs
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.Models\obj\Debug\net7.0\StudentManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.Models\obj\Debug\net7.0\StudentManagement.Models.dll
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.Models\obj\Debug\net7.0\refint\StudentManagement.Models.dll
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.Models\obj\Debug\net7.0\StudentManagement.Models.pdb
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.Models\obj\Debug\net7.0\ref\StudentManagement.Models.dll

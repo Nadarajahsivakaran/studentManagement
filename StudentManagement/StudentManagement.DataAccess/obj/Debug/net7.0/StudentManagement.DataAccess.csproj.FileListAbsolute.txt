@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\bin\Debug\net7.0\StudentManagement.DataAccess.deps.json
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\bin\Debug\net7.0\StudentManagement.DataAccess.dll
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\bin\Debug\net7.0\StudentManagement.DataAccess.pdb
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\bin\Debug\net7.0\StudentManagement.Models.dll
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\bin\Debug\net7.0\StudentManagement.Models.pdb
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\obj\Debug\net7.0\StudentManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\obj\Debug\net7.0\StudentManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\obj\Debug\net7.0\StudentManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\obj\Debug\net7.0\StudentManagement.DataAccess.AssemblyInfo.cs
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\obj\Debug\net7.0\StudentManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\obj\Debug\net7.0\StudentManagement.DataAccess.csproj.CopyComplete
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\obj\Debug\net7.0\StudentManagement.DataAccess.dll
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\obj\Debug\net7.0\refint\StudentManagement.DataAccess.dll
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\obj\Debug\net7.0\StudentManagement.DataAccess.pdb
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\obj\Debug\net7.0\ref\StudentManagement.DataAccess.dll
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\bin\Debug\net7.0\StudentManagement.DataAccess.runtimeconfig.json
+C:\Users\HP\Desktop\PK -Student Management\StudentManagement\StudentManagement.DataAccess\obj\Debug\net7.0\StudentManagement.DataAccess.genruntimeconfig.cache
